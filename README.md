@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
 **Preview:**
 
 <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0; max-width: 100%;">
-  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Star%20Wars/The%20Mandalorian.png?raw=true&v=2" target="_blank">
-    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Star%20Wars/The%20Mandalorian.png?raw=true&v=2" width="60" height="60" alt="The Mandalorian" style="border-radius: 50%;">
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Star%20Wars/The%20Mandalorian.png?raw=true&v=3" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Star%20Wars/The%20Mandalorian.png?raw=true&v=3" width="60" height="60" alt="The Mandalorian" style="border-radius: 50%;">
   </a>
 </div>
