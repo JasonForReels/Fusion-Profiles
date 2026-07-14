@@ -27,5 +27,8 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Shuri.png?raw=true&v=2" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Shuri.png?raw=true&v=2" width="120" height="120" alt="Shuri" style="border-radius: 50%;">
   </a>
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Doctor%20Strange.png?raw=true&v=2" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Doctor%20Strange.png?raw=true&v=2" width="120" height="120" alt="Doctor Strange" style="border-radius: 50%;">
+  </a>
 </div>
 
