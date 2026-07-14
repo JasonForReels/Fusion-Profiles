@@ -21,8 +21,8 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Cyclops.png?raw=true&v=2" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Cyclops.png?raw=true&v=2" width="60" height="60" alt="Cyclops" style="border-radius: 50%;">
   </a>
-  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Captain%20America.png?raw=true&v=2" target="_blank">
-    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Captain%20America.png?raw=true&v=2" width="60" height="60" alt="Captain America" style="border-radius: 50%;">
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Captain%20America.png?raw=true&v=3" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Captain%20America.png?raw=true&v=3" width="60" height="60" alt="Captain America" style="border-radius: 50%;">
   </a>
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Shuri.png?raw=true&v=2" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Shuri.png?raw=true&v=2" width="60" height="60" alt="Shuri" style="border-radius: 50%;">
