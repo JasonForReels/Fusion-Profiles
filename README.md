@@ -15,6 +15,9 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Disney/Tangled/Pascal.png?raw=true&v=1" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Disney/Tangled/Pascal.png?raw=true&v=1" width="60" height="60" alt="Pascal" style="border-radius: 50%;">
   </a>
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Disney/Moana/Moana.png?raw=true&v=1" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Disney/Moana/Moana.png?raw=true&v=1" width="60" height="60" alt="Moana" style="border-radius: 50%;">
+  </a>
 </div>
 
 ### Marvel
