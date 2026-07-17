@@ -2,6 +2,21 @@
 
 A collection of profile avatar packs for Fusion.
 
+### Disney
+
+Copy and paste this URL into your Fusion client:
+```
+https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/Disney/pack.json
+```
+
+**Preview:**
+
+<div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0; max-width: 100%;">
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Disney/Pascal.png?raw=true&v=1" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Disney/Pascal.png?raw=true&v=1" width="60" height="60" alt="Pascal" style="border-radius: 50%;">
+  </a>
+</div>
+
 ### Marvel
 
 Copy and paste this URL into your Fusion client:
