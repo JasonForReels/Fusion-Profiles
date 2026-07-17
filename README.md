@@ -2,11 +2,11 @@
 
 A collection of profile avatar packs for Fusion.
 
-### Disney - Tangled
+### Disney
 
 Copy and paste this URL into your Fusion client:
 ```
-https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/Disney/Tangled/pack.json
+https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/Disney/pack.json
 ```
 
 **Preview:**
