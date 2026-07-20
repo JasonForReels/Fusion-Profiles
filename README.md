@@ -63,6 +63,12 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Doctor%20Strange.png?raw=true&v=4" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Doctor%20Strange.png?raw=true&v=4" width="60" height="60" alt="Doctor Strange" style="border-radius: 50%;">
   </a>
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Black%20Widow.png?raw=true&v=1" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Black%20Widow.png?raw=true&v=1" width="60" height="60" alt="Black Widow" style="border-radius: 50%;">
+  </a>
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Doctor%20Doom.png?raw=true&v=1" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Doctor%20Doom.png?raw=true&v=1" width="60" height="60" alt="Doctor Doom" style="border-radius: 50%;">
+  </a>
 </div>
 
 ### Star Wars
@@ -92,5 +98,8 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
 <div style="display: flex; gap: 10px; overflow-x: auto; padding: 10px 0; max-width: 100%;">
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/DC/The%20Batman.png?raw=true&v=1" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/DC/The%20Batman.png?raw=true&v=1" width="60" height="60" alt="The Batman" style="border-radius: 50%;">
+  </a>
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/DC/Superman.png?raw=true&v=1" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/DC/Superman.png?raw=true&v=1" width="60" height="60" alt="Superman" style="border-radius: 50%;">
   </a>
 </div>
