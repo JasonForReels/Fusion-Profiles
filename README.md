@@ -72,6 +72,9 @@ https://raw.githubusercontent.com/JasonForReels/Fusion-Profiles/refs/heads/main/
   <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Scarlett%20Witch.png?raw=true&v=1" target="_blank">
     <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Scarlett%20Witch.png?raw=true&v=1" width="60" height="60" alt="Scarlett Witch" style="border-radius: 50%;">
   </a>
+  <a href="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Loki.png?raw=true&v=1" target="_blank">
+    <img src="https://github.com/JasonForReels/Fusion-Profiles/blob/main/Marvel/Loki.png?raw=true&v=1" width="60" height="60" alt="Loki" style="border-radius: 50%;">
+  </a>
 </div>
 
 ### Star Wars
